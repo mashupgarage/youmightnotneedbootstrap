@@ -1,5 +1,7 @@
 # you-might-not-need-bootstrap
 
+> Substitutes for things you usually will do with Bootstrap
+
 ## Tooltips
 
 Use [hint.css](https://kushagragour.in/lab/hint/). It's a pure HTML/CSS solution:
@@ -36,7 +38,6 @@ Consider [rellax](http://yarn.pm/rellax).
 ## Datepicker
 
 Consider [rome](https://github.com/bevacqua/rome).
-
 
 ## Modal
 
