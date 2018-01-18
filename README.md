@@ -39,6 +39,20 @@ Consider [rellax](http://yarn.pm/rellax).
 
 Consider [rome](https://github.com/bevacqua/rome).
 
+## Grids
+
+Consider:
+
+- [Jeet](http://jeet.gs/) lets you build grids with Sass
+- [Pure.css](https://purecss.io/grids/) has grids. No Sass support though
+- ...consider writing your own classes as needed. Grids are easy to do with Flexbox!
+
+## Ajax
+
+Use `window.fetch` instead of jQuery's `$.get` or `$.ajax`.
+
+- http://devhints.io/js-fetch
+
 ## Modal
 
 - ...
