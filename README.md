@@ -55,4 +55,4 @@ Use `window.fetch` instead of jQuery's `$.get` or `$.ajax`.
 
 ## Modal
 
-- ...
+Consider [tingle](https://robinparisi.github.io/tingle/).
