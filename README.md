@@ -53,6 +53,18 @@ Use `window.fetch` instead of jQuery's `$.get` or `$.ajax`.
 
 - http://devhints.io/js-fetch
 
+## Toast notifications
+
+Consider:
+
+- https://yarn.pm/react-toastify
+
+## Moment.js
+
+Moment.js is huge, bloated, and not very friendly to functional approaches. Consider instead:
+
+- https://date-fns.org/
+
 ## Modal
 
 Consider [tingle](https://robinparisi.github.io/tingle/).
