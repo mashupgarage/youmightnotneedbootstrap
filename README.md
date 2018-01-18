@@ -65,6 +65,12 @@ Moment.js is huge, bloated, and not very friendly to functional approaches. Cons
 
 - https://date-fns.org/
 
+## Icons
+
+Consider:
+
+- http://yarn.pm/ionicons-inline
+
 ## Modal
 
 Consider [tingle](https://robinparisi.github.io/tingle/).
