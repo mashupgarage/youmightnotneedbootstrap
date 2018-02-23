@@ -37,7 +37,10 @@ Consider [rellax](http://yarn.pm/rellax).
 
 ## Datepicker
 
-Consider [rome](https://github.com/bevacqua/rome).
+Consider:
+
+- [Pikaday](https://dbushell.com/Pikaday/)
+- [rome](https://github.com/bevacqua/rome)
 
 ## Grids
 
