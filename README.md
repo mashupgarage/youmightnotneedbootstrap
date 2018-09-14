@@ -39,8 +39,9 @@ Consider [rellax](http://yarn.pm/rellax).
 
 Consider:
 
-- [Pikaday](https://dbushell.com/Pikaday/)
-- [rome](https://github.com/bevacqua/rome)
+- ~~[Pikaday](https://dbushell.com/Pikaday/)~~
+- ~~[rome](https://github.com/bevacqua/rome)~~
+- [flatpickr](https://flatpickr.js.org/)
 
 ## Grids
 
@@ -76,4 +77,13 @@ Consider:
 
 ## Modal
 
-Consider [tingle](https://robinparisi.github.io/tingle/).
+Consider:
+
+- [tingle](https://robinparisi.github.io/tingle/)
+- [reach-dialog](https://ui.reach.tech/dialog) _(React)_
+
+## React components
+
+To use React components in your non-React site, consider:
+
+- [remount](https://github.com/rstacruz/remount)
